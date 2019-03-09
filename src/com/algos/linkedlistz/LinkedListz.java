@@ -54,6 +54,23 @@ public class LinkedListz<T> {
 
     }
 
+    int max(Node<Comparable> head){
+
+        int ret = 0;
+
+        Node<Comparable> cur = head;
+
+        while(cur!=null){
+
+            if(cur.element.compareTo(ret) > 0 )
+                ret = (Integer)cur.element;
+            cur = cur.next;
+        }
+
+        return ret;
+
+    }
+
     void print(Node<T> head){
 
         if(null!=head){
@@ -90,6 +107,10 @@ public class LinkedListz<T> {
         ll0.print(ll0.head);
 
         ll0.add(Integer.valueOf(1));
+
+        int max = ll0.max(ll0.head);
+
+        System.out.println("max: " + max);
 
     }
 }

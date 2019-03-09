@@ -59,29 +59,30 @@ public class BinaryTree {
     public boolean anotherInsert(Comparable o){
 
 
+
         if(null == root){
 
             root = new Node(o);
         }else{
 
+
             Node<Comparable> parent = null;
-            Node<Comparable> cur = root;
+            Node<Comparable> current = root;
 
-            while(null != cur){
+            while(null!=current){
 
-                if(o.compareTo(cur.element) < 0){
 
-                    parent = cur;
-                    cur = cur.left;
+                if(o.compareTo(current.element)< 0){
 
-                }else if(o.compareTo(cur.element)> 0){
+                    parent = current;
+                    current = current.left;
 
-                    parent = cur;
-                    cur = cur.right;
                 }else{
-                    //do not insert duplicate
-                    return false;
+
+                    parent = current;
+                    current = current.right;
                 }
+
             }
 
             if(o.compareTo(parent.element)<0){
@@ -91,12 +92,12 @@ public class BinaryTree {
 
                 parent.right = new Node(o);
             }
+
+
+            size++;
         }
 
-        size++;
-
         return Boolean.TRUE;
-
     }
 
     public Boolean search(Comparable<?> o, Node<Comparable<?>> root) {

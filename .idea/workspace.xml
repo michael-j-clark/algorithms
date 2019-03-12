@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="42516425-5fb0-4f08-a1de-b4179d4fd202" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/algos/general/Permutations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/algos/linkedlistz/SortedInsert.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/algos/Graphz/DPQ.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/algos/Graphz/Dijkstra.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithms/com/algos/leetcode/easy/SearchInsertPosition.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/com/algos/leetcode/easy/SearchInsertPosition.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -24,6 +23,40 @@
               <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
               <folding>
                 <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="QuickSort.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/algos/search/QuickSort.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="305">
+              <caret line="25" column="47" selection-start-line="25" selection-start-column="47" selection-end-line="25" selection-end-column="47" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BalanceBrackets.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/algos/stack/BalanceBrackets.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="790">
+              <caret line="58" column="30" lean-forward="true" selection-start-line="58" selection-start-column="30" selection-end-line="58" selection-end-column="30" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DPQ.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/algos/Graphz/DPQ.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="740">
+              <caret line="90" column="39" lean-forward="true" selection-start-line="90" selection-start-column="39" selection-end-line="90" selection-end-column="39" />
+              <folding>
+                <element signature="e#2164#2177#0" expanded="true" />
+                <element signature="e#2306#2312#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -53,8 +86,20 @@
       <file leaf-file-name="NextPermutation.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/algos/leetcode/medium/NextPermutation.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+            <state relative-caret-position="316">
+              <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Dijkstra.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/algos/Graphz/Dijkstra.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="601">
+              <caret line="84" column="43" lean-forward="true" selection-start-line="84" selection-start-column="43" selection-end-line="84" selection-end-column="43" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -71,32 +116,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SortedInsert.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="SortedInsert.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/algos/linkedlistz/SortedInsert.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="60">
               <caret line="4" column="83" selection-start-line="4" selection-start-column="83" selection-end-line="4" selection-end-column="83" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ReverseInteger.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/algos/leetcode/easy/ReverseInteger.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="290">
-              <caret line="49" column="47" lean-forward="true" selection-start-line="49" selection-start-column="47" selection-end-line="49" selection-end-column="47" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="FirstMissing.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/algos/leetcode/hard/FirstMissing.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="280">
-              <caret line="22" selection-start-line="22" selection-end-line="25" selection-end-column="6" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -128,7 +152,6 @@
         <option value="$PROJECT_DIR$/src/com/algos/fib/MemoFib.java" />
         <option value="$PROJECT_DIR$/src/com/algos/threadz/ExectorSvcs.java" />
         <option value="$PROJECT_DIR$/src/com/algos/threadz/ExecutorSvcs.java" />
-        <option value="$PROJECT_DIR$/src/com/algos/search/QuickSort.java" />
         <option value="$PROJECT_DIR$/src/com/algos/stack/Stack.java" />
         <option value="$PROJECT_DIR$/src/com/algos/stringz/Reverse.java" />
         <option value="$PROJECT_DIR$/src/com/algos/dynamik/MaxSubArray.java" />
@@ -163,6 +186,11 @@
         <option value="$PROJECT_DIR$/src/com/algos/leetcode/easy/SearchInsertPosition.java" />
         <option value="$PROJECT_DIR$/src/com/algos/general/Permutations.java" />
         <option value="$PROJECT_DIR$/src/com/algos/linkedlistz/SortedInsert.java" />
+        <option value="$PROJECT_DIR$/src/com/algos/Graphz/Djikstra.java" />
+        <option value="$PROJECT_DIR$/src/com/algos/Graphz/Dijkstra.java" />
+        <option value="$PROJECT_DIR$/src/com/algos/search/QuickSort.java" />
+        <option value="$PROJECT_DIR$/src/com/algos/Graphz/Dijkstra2.java" />
+        <option value="$PROJECT_DIR$/src/com/algos/Graphz/DPQ.java" />
       </list>
     </option>
   </component>
@@ -175,9 +203,9 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="451" />
-    <option name="y" value="104" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="359" />
+    <option name="y" value="48" />
     <option name="width" value="1231" />
     <option name="height" value="889" />
   </component>
@@ -357,6 +385,9 @@
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="com.algos.leetcode.medium" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.algos.Graphz" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/com/algos/bst" />
     </key>
@@ -373,23 +404,33 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Permutations">
-    <configuration name="ArrayMultiple" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.algos.dailycoding.ArrayMultiple" />
+  <component name="RunManager" selected="Application.DPQ">
+    <configuration name="DPQ" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.algos.Graphz.DPQ" />
       <module name="algorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.algos.dailycoding.*" />
+          <option name="PATTERN" value="com.algos.Graphz.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="NextPermutation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.algos.leetcode.medium.NextPermutation" />
+    <configuration name="Dijkstra" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.algos.Graphz.Dijkstra" />
       <module name="algorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.algos.leetcode.medium.*" />
+          <option name="PATTERN" value="com.algos.Graphz.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Djikstra" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.algos.Graphz.Djikstra" />
+      <module name="algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.algos.Graphz.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -404,40 +445,30 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="SearchInsertPosition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.algos.leetcode.easy.SearchInsertPosition" />
+    <configuration name="QuickSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.algos.search.QuickSort" />
       <module name="algorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.algos.leetcode.easy.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="TwoSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.algos.leetcode.easy.TwoSum" />
-      <module name="algorithms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.algos.leetcode.easy.*" />
+          <option name="PATTERN" value="com.algos.search.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
     <list>
-      <item itemvalue="Application.TwoSum" />
-      <item itemvalue="Application.ArrayMultiple" />
-      <item itemvalue="Application.NextPermutation" />
-      <item itemvalue="Application.SearchInsertPosition" />
       <item itemvalue="Application.Permutations" />
+      <item itemvalue="Application.DPQ" />
+      <item itemvalue="Application.Djikstra" />
+      <item itemvalue="Application.Dijkstra" />
+      <item itemvalue="Application.QuickSort" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DPQ" />
+        <item itemvalue="Application.QuickSort" />
+        <item itemvalue="Application.Dijkstra" />
+        <item itemvalue="Application.Djikstra" />
         <item itemvalue="Application.Permutations" />
-        <item itemvalue="Application.SearchInsertPosition" />
-        <item itemvalue="Application.NextPermutation" />
-        <item itemvalue="Application.ArrayMultiple" />
-        <item itemvalue="Application.TwoSum" />
       </list>
     </recent_temporary>
   </component>
@@ -453,15 +484,16 @@
       <updated>1548984430750</updated>
       <workItem from="1548984436119" duration="4899000" />
       <workItem from="1550102378920" duration="19099000" />
-      <workItem from="1550940568867" duration="66958000" />
+      <workItem from="1550940568867" duration="70728000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="90956000" />
+    <option name="totallyTimeSpent" value="94726000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="451" y="104" width="1231" height="889" extended-state="1" />
+    <frame x="359" y="48" width="1231" height="889" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -473,11 +505,11 @@
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32883435" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32883435" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2843217" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2843217" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32883435" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -542,20 +574,10 @@
       <breakpoints-dialog>
         <breakpoints-dialog />
       </breakpoints-dialog>
-      <option name="time" value="18" />
+      <option name="time" value="19" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/algos/fib/MemoFib.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="21" column="9" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/algos/search/QuickSort.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
@@ -764,13 +786,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/algos/search/QuickSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="431">
-          <caret line="58" column="5" lean-forward="true" selection-start-line="58" selection-start-column="5" selection-end-line="58" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/algos/Graphz/GraphSearch.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="107">
@@ -833,18 +848,6 @@
           <folding>
             <element signature="e#1292#1304#0" expanded="true" />
             <element signature="e#339#351#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/algos/stack/BalanceBrackets.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="58" column="30" lean-forward="true" selection-start-line="58" selection-start-column="30" selection-end-line="58" selection-end-column="30" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#328#337#0" expanded="true" />
-            <element signature="e#218#227#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -981,16 +984,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/algos/leetcode/medium/NextPermutation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/algos/dailycoding/ArrayMultiple.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="138">
@@ -1019,6 +1012,54 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="4" column="83" selection-start-line="4" selection-start-column="83" selection-end-line="4" selection-end-column="83" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/algos/leetcode/medium/NextPermutation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="316">
+          <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/algos/Graphz/Dijkstra.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="601">
+          <caret line="84" column="43" lean-forward="true" selection-start-line="84" selection-start-column="43" selection-end-line="84" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/algos/search/QuickSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="305">
+          <caret line="25" column="47" selection-start-line="25" selection-start-column="47" selection-end-line="25" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/algos/stack/BalanceBrackets.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="790">
+          <caret line="58" column="30" lean-forward="true" selection-start-line="58" selection-start-column="30" selection-end-line="58" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/algos/Graphz/DPQ.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="740">
+          <caret line="90" column="39" lean-forward="true" selection-start-line="90" selection-start-column="39" selection-end-line="90" selection-end-column="39" />
+          <folding>
+            <element signature="e#2164#2177#0" expanded="true" />
+            <element signature="e#2306#2312#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

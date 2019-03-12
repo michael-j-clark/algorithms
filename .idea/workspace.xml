@@ -2,36 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="42516425-5fb0-4f08-a1de-b4179d4fd202" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/algos/Graphz/GFG.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/algos/Graphz/GraphSearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/algos/Graphz/HasEdge.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/algos/Graphz/JourneyToTheMoon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/algos/Graphz/WeightedGraph.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/algos/dailycoding/ArrayMultiple.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/algos/dynamik/CoinChange.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/algos/hackerrank/medium/CycleDetection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/algos/leetcode/easy/CountPrimes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/algos/leetcode/easy/ImplementStrStr.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/algos/leetcode/easy/MergeTwoSortedLists.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/algos/leetcode/easy/PalindromeNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/algos/leetcode/easy/PlusOne.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/algos/leetcode/easy/RemoveElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/algos/leetcode/easy/ReverseInteger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/algos/leetcode/easy/RomanToInteger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/algos/leetcode/easy/SearchInsertPosition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/algos/leetcode/easy/TwoSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/algos/leetcode/hard/FirstMissing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/algos/leetcode/medium/MinTravelCost.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/algos/leetcode/medium/NextPermutation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/algos/search/RollingHash.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/algos/stack/BalanceBrackets.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/algos/general/Permutations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/algos/linkedlistz/SortedInsert.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithms/com/algos/bst/BinaryTree$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/com/algos/bst/BinaryTree$Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithms/com/algos/bst/BinaryTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/com/algos/bst/BinaryTree.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithms/com/algos/linkedlistz/LinkedListz.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/com/algos/linkedlistz/LinkedListz.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/algos/bst/BinaryTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/algos/bst/BinaryTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/algos/linkedlistz/LinkedListz.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/algos/linkedlistz/LinkedListz.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithms/com/algos/leetcode/easy/SearchInsertPosition.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/com/algos/leetcode/easy/SearchInsertPosition.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -76,18 +50,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ArrayMultiple.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/algos/dailycoding/ArrayMultiple.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="138">
-              <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="NextPermutation.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/algos/leetcode/medium/NextPermutation.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -100,11 +62,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SearchInsertPosition.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/algos/leetcode/easy/SearchInsertPosition.java">
+      <file leaf-file-name="Permutations.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/algos/general/Permutations.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="486">
-              <caret line="41" column="17" selection-start-line="41" selection-start-column="17" selection-end-line="41" selection-end-column="17" />
+            <state relative-caret-position="150">
+              <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SortedInsert.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/algos/linkedlistz/SortedInsert.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="83" selection-start-line="4" selection-start-column="83" selection-end-line="4" selection-end-column="83" />
             </state>
           </provider>
         </entry>
@@ -114,27 +85,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="290">
               <caret line="49" column="47" lean-forward="true" selection-start-line="49" selection-start-column="47" selection-end-line="49" selection-end-column="47" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="RemoveElement.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/algos/leetcode/easy/RemoveElement.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="350">
-              <caret line="57" column="51" lean-forward="true" selection-start-line="57" selection-start-column="51" selection-end-line="57" selection-end-column="51" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="RomanToInteger.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/algos/leetcode/easy/RomanToInteger.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-4">
-              <caret line="38" column="44" lean-forward="true" selection-start-line="38" selection-start-column="44" selection-end-line="38" selection-end-column="44" />
             </state>
           </provider>
         </entry>
@@ -163,7 +113,11 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>Integer</find>
+      <find>str</find>
     </findStrings>
+    <replaceStrings>
+      <replace>a</replace>
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -207,6 +161,8 @@
         <option value="$PROJECT_DIR$/src/com/algos/dailycoding/ArrayMultiple.java" />
         <option value="$PROJECT_DIR$/src/com/algos/leetcode/medium/NextPermutation.java" />
         <option value="$PROJECT_DIR$/src/com/algos/leetcode/easy/SearchInsertPosition.java" />
+        <option value="$PROJECT_DIR$/src/com/algos/general/Permutations.java" />
+        <option value="$PROJECT_DIR$/src/com/algos/linkedlistz/SortedInsert.java" />
       </list>
     </option>
   </component>
@@ -219,7 +175,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="x" value="451" />
     <option name="y" value="104" />
     <option name="width" value="1231" />
@@ -277,6 +233,13 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="algos" type="462c0819:PsiDirectoryNode" />
               <item name="fib" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithms" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="algos" type="462c0819:PsiDirectoryNode" />
+              <item name="general" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="algorithms" type="b2602c69:ProjectViewProjectNode" />
@@ -410,7 +373,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SearchInsertPosition">
+  <component name="RunManager" selected="Application.Permutations">
     <configuration name="ArrayMultiple" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.algos.dailycoding.ArrayMultiple" />
       <module name="algorithms" />
@@ -421,22 +384,22 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="FirstMissing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.algos.leetcode.hard.FirstMissing" />
-      <module name="algorithms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.algos.leetcode.hard.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
     <configuration name="NextPermutation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.algos.leetcode.medium.NextPermutation" />
       <module name="algorithms" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.algos.leetcode.medium.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Permutations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.algos.general.Permutations" />
+      <module name="algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.algos.general.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -462,19 +425,19 @@
       </extension>
     </configuration>
     <list>
-      <item itemvalue="Application.FirstMissing" />
       <item itemvalue="Application.TwoSum" />
       <item itemvalue="Application.ArrayMultiple" />
       <item itemvalue="Application.NextPermutation" />
       <item itemvalue="Application.SearchInsertPosition" />
+      <item itemvalue="Application.Permutations" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Permutations" />
         <item itemvalue="Application.SearchInsertPosition" />
         <item itemvalue="Application.NextPermutation" />
         <item itemvalue="Application.ArrayMultiple" />
         <item itemvalue="Application.TwoSum" />
-        <item itemvalue="Application.FirstMissing" />
       </list>
     </recent_temporary>
   </component>
@@ -490,15 +453,15 @@
       <updated>1548984430750</updated>
       <workItem from="1548984436119" duration="4899000" />
       <workItem from="1550102378920" duration="19099000" />
-      <workItem from="1550940568867" duration="64002000" />
+      <workItem from="1550940568867" duration="66958000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="88000000" />
+    <option name="totallyTimeSpent" value="90956000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="451" y="104" width="1231" height="889" extended-state="0" />
+    <frame x="451" y="104" width="1231" height="889" extended-state="1" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -510,11 +473,11 @@
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32883435" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32883435" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2843217" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2843217" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32883435" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -1011,20 +974,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/algos/hackerrank/medium/CycleDetection.java">
+    <entry file="file://$PROJECT_DIR$/src/com/algos/leetcode/easy/SearchInsertPosition.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="43" lean-forward="true" selection-start-line="22" selection-start-column="43" selection-end-line="22" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/algos/dailycoding/ArrayMultiple.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="261">
+          <caret line="26" column="55" selection-start-line="26" selection-start-column="55" selection-end-line="26" selection-end-column="55" />
         </state>
       </provider>
     </entry>
@@ -1038,10 +991,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/algos/leetcode/easy/SearchInsertPosition.java">
+    <entry file="file://$PROJECT_DIR$/src/com/algos/dailycoding/ArrayMultiple.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="486">
-          <caret line="41" column="17" selection-start-line="41" selection-start-column="17" selection-end-line="41" selection-end-column="17" />
+        <state relative-caret-position="138">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/algos/hackerrank/medium/CycleDetection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="43" lean-forward="true" selection-start-line="22" selection-start-column="43" selection-end-line="22" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/algos/general/Permutations.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/algos/linkedlistz/SortedInsert.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="83" selection-start-line="4" selection-start-column="83" selection-end-line="4" selection-end-column="83" />
         </state>
       </provider>
     </entry>

@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="42516425-5fb0-4f08-a1de-b4179d4fd202" name="Default" comment="">
+<<<<<<< HEAD
       <change afterPath="$PROJECT_DIR$/src/Ford.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/algos/Graphz/AdjMatrix.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/algos/Graphz/Islands.java" afterDir="false" />
@@ -45,6 +46,11 @@
       <change beforePath="$PROJECT_DIR$/out/production/algorithms/com/algos/threadz/ExecutorSvcs.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithms/com/algos/threadz/ExecutorSvcs.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/algos/Graphz/GraphSearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/algos/Graphz/GraphSearch.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/algos/bst/BinaryTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/algos/bst/BinaryTree.java" afterDir="false" />
+=======
+      <change afterPath="$PROJECT_DIR$/src/com/algos/Graphz/DPQ.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/algos/Graphz/Dijkstra.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+>>>>>>> 103bfc9c8c9e5853c54117b2f3e352d3196e0743
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -93,6 +99,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+<<<<<<< HEAD
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Ford.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -101,6 +108,113 @@
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+=======
+      <file leaf-file-name="MemoFib.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/algos/fib/MemoFib.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="286">
+              <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="QuickSort.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/algos/search/QuickSort.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="305">
+              <caret line="25" column="47" selection-start-line="25" selection-start-column="47" selection-end-line="25" selection-end-column="47" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BalanceBrackets.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/algos/stack/BalanceBrackets.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="790">
+              <caret line="58" column="30" lean-forward="true" selection-start-line="58" selection-start-column="30" selection-end-line="58" selection-end-column="30" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DPQ.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/algos/Graphz/DPQ.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="740">
+              <caret line="90" column="39" lean-forward="true" selection-start-line="90" selection-start-column="39" selection-end-line="90" selection-end-column="39" />
+              <folding>
+                <element signature="e#2164#2177#0" expanded="true" />
+                <element signature="e#2306#2312#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TwoSum.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/algos/leetcode/easy/TwoSum.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="461">
+              <caret line="42" column="32" lean-forward="true" selection-start-line="42" selection-start-column="32" selection-end-line="42" selection-end-column="32" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CycleDetection.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/algos/hackerrank/medium/CycleDetection.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="22" column="43" lean-forward="true" selection-start-line="22" selection-start-column="43" selection-end-line="22" selection-end-column="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="NextPermutation.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/algos/leetcode/medium/NextPermutation.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="316">
+              <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Dijkstra.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/algos/Graphz/Dijkstra.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="601">
+              <caret line="84" column="43" lean-forward="true" selection-start-line="84" selection-start-column="43" selection-end-line="84" selection-end-column="43" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Permutations.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/algos/general/Permutations.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SortedInsert.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/algos/linkedlistz/SortedInsert.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="83" selection-start-line="4" selection-start-column="83" selection-end-line="4" selection-end-column="83" />
+>>>>>>> 103bfc9c8c9e5853c54117b2f3e352d3196e0743
             </state>
           </provider>
         </entry>
@@ -117,7 +231,11 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>Integer</find>
+      <find>str</find>
     </findStrings>
+    <replaceStrings>
+      <replace>a</replace>
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -128,7 +246,6 @@
         <option value="$PROJECT_DIR$/src/com/algos/fib/MemoFib.java" />
         <option value="$PROJECT_DIR$/src/com/algos/threadz/ExectorSvcs.java" />
         <option value="$PROJECT_DIR$/src/com/algos/threadz/ExecutorSvcs.java" />
-        <option value="$PROJECT_DIR$/src/com/algos/search/QuickSort.java" />
         <option value="$PROJECT_DIR$/src/com/algos/stack/Stack.java" />
         <option value="$PROJECT_DIR$/src/com/algos/stringz/Reverse.java" />
         <option value="$PROJECT_DIR$/src/com/algos/dynamik/MaxSubArray.java" />
@@ -159,6 +276,7 @@
         <option value="$PROJECT_DIR$/src/com/algos/dailycoding/ArrayMultiple.java" />
         <option value="$PROJECT_DIR$/src/com/algos/leetcode/medium/NextPermutation.java" />
         <option value="$PROJECT_DIR$/src/com/algos/leetcode/easy/SearchInsertPosition.java" />
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/src/com/algos/dailycoding/SerializeBST.java" />
         <option value="$PROJECT_DIR$/src/com/algos/matrix/Transpose.java" />
         <option value="$PROJECT_DIR$/src/com/algos/bst/BinaryTreeArray.java" />
@@ -171,6 +289,15 @@
         <option value="$PROJECT_DIR$/src/com/algos/Graphz/DFSBFSList.java" />
         <option value="$PROJECT_DIR$/src/com/algos/Graphz/GraphSearch.java" />
         <option value="$PROJECT_DIR$/src/Ford.java" />
+=======
+        <option value="$PROJECT_DIR$/src/com/algos/general/Permutations.java" />
+        <option value="$PROJECT_DIR$/src/com/algos/linkedlistz/SortedInsert.java" />
+        <option value="$PROJECT_DIR$/src/com/algos/Graphz/Djikstra.java" />
+        <option value="$PROJECT_DIR$/src/com/algos/Graphz/Dijkstra.java" />
+        <option value="$PROJECT_DIR$/src/com/algos/search/QuickSort.java" />
+        <option value="$PROJECT_DIR$/src/com/algos/Graphz/Dijkstra2.java" />
+        <option value="$PROJECT_DIR$/src/com/algos/Graphz/DPQ.java" />
+>>>>>>> 103bfc9c8c9e5853c54117b2f3e352d3196e0743
       </list>
     </option>
   </component>
@@ -181,8 +308,13 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
+<<<<<<< HEAD
     <option name="x" value="50" />
     <option name="y" value="23" />
+=======
+    <option name="x" value="359" />
+    <option name="y" value="48" />
+>>>>>>> 103bfc9c8c9e5853c54117b2f3e352d3196e0743
     <option name="width" value="1231" />
     <option name="height" value="677" />
   </component>
@@ -230,6 +362,30 @@
               <item name="algorithms" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="algos" type="462c0819:PsiDirectoryNode" />
+<<<<<<< HEAD
+=======
+              <item name="dynamik" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithms" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="algos" type="462c0819:PsiDirectoryNode" />
+              <item name="fib" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithms" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="algos" type="462c0819:PsiDirectoryNode" />
+              <item name="general" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithms" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="algos" type="462c0819:PsiDirectoryNode" />
+>>>>>>> 103bfc9c8c9e5853c54117b2f3e352d3196e0743
               <item name="Graphz" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -267,6 +423,9 @@
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="com.algos.leetcode.medium" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.algos.Graphz" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/com/algos/bst" />
     </key>
@@ -283,9 +442,15 @@
       </list>
     </option>
   </component>
+<<<<<<< HEAD
   <component name="RunManager" selected="Application.Ford">
     <configuration name="AdjMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.algos.Graphz.AdjMatrix" />
+=======
+  <component name="RunManager" selected="Application.DPQ">
+    <configuration name="DPQ" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.algos.Graphz.DPQ" />
+>>>>>>> 103bfc9c8c9e5853c54117b2f3e352d3196e0743
       <module name="algorithms" />
       <extension name="coverage">
         <pattern>
@@ -297,8 +462,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+<<<<<<< HEAD
     <configuration name="DFS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.algos.Graphz.DFS" />
+=======
+    <configuration name="Dijkstra" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.algos.Graphz.Dijkstra" />
+>>>>>>> 103bfc9c8c9e5853c54117b2f3e352d3196e0743
       <module name="algorithms" />
       <extension name="coverage">
         <pattern>
@@ -310,6 +480,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+<<<<<<< HEAD
     <configuration name="Ford" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Ford" />
       <module name="algorithms" />
@@ -319,6 +490,10 @@
     </configuration>
     <configuration name="GraphSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.algos.Graphz.GraphSearch" />
+=======
+    <configuration name="Djikstra" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.algos.Graphz.Djikstra" />
+>>>>>>> 103bfc9c8c9e5853c54117b2f3e352d3196e0743
       <module name="algorithms" />
       <extension name="coverage">
         <pattern>
@@ -330,12 +505,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+<<<<<<< HEAD
     <configuration name="GraphSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.algos.Graphz.GraphSearch" />
       <module name="algorithms" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.algos.Graphz.*" />
+=======
+    <configuration name="Permutations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.algos.general.Permutations" />
+      <module name="algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.algos.general.*" />
+>>>>>>> 103bfc9c8c9e5853c54117b2f3e352d3196e0743
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -343,12 +527,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+<<<<<<< HEAD
     <configuration name="Islands" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.algos.Graphz.Islands" />
       <module name="algorithms" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.algos.Graphz.*" />
+=======
+    <configuration name="QuickSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.algos.search.QuickSort" />
+      <module name="algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.algos.search.*" />
+>>>>>>> 103bfc9c8c9e5853c54117b2f3e352d3196e0743
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -357,6 +550,7 @@
       </method>
     </configuration>
     <list>
+<<<<<<< HEAD
       <item itemvalue="Application.AdjMatrix" />
       <item itemvalue="Application.Islands" />
       <item itemvalue="Application.DFS" />
@@ -370,6 +564,21 @@
         <item itemvalue="Application.GraphSearch" />
         <item itemvalue="Application.DFS" />
         <item itemvalue="Application.AdjMatrix" />
+=======
+      <item itemvalue="Application.Permutations" />
+      <item itemvalue="Application.DPQ" />
+      <item itemvalue="Application.Djikstra" />
+      <item itemvalue="Application.Dijkstra" />
+      <item itemvalue="Application.QuickSort" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.DPQ" />
+        <item itemvalue="Application.QuickSort" />
+        <item itemvalue="Application.Dijkstra" />
+        <item itemvalue="Application.Djikstra" />
+        <item itemvalue="Application.Permutations" />
+>>>>>>> 103bfc9c8c9e5853c54117b2f3e352d3196e0743
       </list>
     </recent_temporary>
   </component>
@@ -385,6 +594,7 @@
       <updated>1548984430750</updated>
       <workItem from="1548984436119" duration="4899000" />
       <workItem from="1550102378920" duration="19099000" />
+<<<<<<< HEAD
       <workItem from="1550940568867" duration="64002000" />
       <workItem from="1552160479627" duration="8136000" />
       <workItem from="1552227098697" duration="5924000" />
@@ -395,14 +605,24 @@
       <workItem from="1552483086949" duration="6394000" />
       <workItem from="1552525020930" duration="1022000" />
       <workItem from="1552577044021" duration="4000" />
+=======
+      <workItem from="1550940568867" duration="70728000" />
+>>>>>>> 103bfc9c8c9e5853c54117b2f3e352d3196e0743
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="119731000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="50" y="64" width="1231" height="677" extended-state="0" />
+=======
+    <option name="totallyTimeSpent" value="94726000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="359" y="48" width="1231" height="889" extended-state="0" />
+>>>>>>> 103bfc9c8c9e5853c54117b2f3e352d3196e0743
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.035323802" />
@@ -508,9 +728,109 @@
       <breakpoints-dialog>
         <breakpoints-dialog />
       </breakpoints-dialog>
+<<<<<<< HEAD
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+=======
+      <option name="time" value="19" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/com/algos/search/QuickSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="28" lean-forward="true" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/algos/stack/Stack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/algos/dynamik/MaxSubArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="22" lean-forward="true" selection-start-line="27" selection-start-column="22" selection-end-line="27" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/algos/streamz/Streamz.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="20" column="21" lean-forward="true" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/algos/hackerrank/MinMaxSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="27" column="13" lean-forward="true" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/algos/hackerrank/GradingStudents.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/algos/stringz/Reverse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/algos/threadz/ExecutorSvcs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="24" column="10" selection-start-line="24" selection-start-column="10" selection-end-line="24" selection-end-column="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/algos/bst/BinaryTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3945">
+          <caret line="277" column="23" selection-start-line="277" selection-start-column="23" selection-end-line="277" selection-end-column="23" />
+          <folding>
+            <element signature="e#2526#2527#0" expanded="true" />
+            <element signature="e#2555#2556#0" expanded="true" />
+            <element signature="e#2867#2868#0" expanded="true" />
+            <element signature="e#2898#2899#0" expanded="true" />
+            <element signature="e#3216#3217#0" expanded="true" />
+            <element signature="e#3246#3247#0" expanded="true" />
+            <element signature="e#3807#3808#0" expanded="true" />
+            <element signature="e#3834#3835#0" expanded="true" />
+            <element signature="e#4333#4339#0" expanded="true" />
+            <element signature="e#5713#5719#0" expanded="true" />
+            <element signature="e#4861#4867#0" expanded="true" />
+            <element signature="e#8472#8473#0" expanded="true" />
+            <element signature="e#8507#8508#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+>>>>>>> 103bfc9c8c9e5853c54117b2f3e352d3196e0743
     <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -574,10 +894,22 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/com/algos/search/QuickSort.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="431">
           <caret line="58" column="5" lean-forward="true" selection-start-line="58" selection-start-column="5" selection-end-line="58" selection-end-column="5" />
+=======
+    <entry file="file://$PROJECT_DIR$/src/com/algos/Graphz/GraphSearch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="107">
+          <caret line="48" lean-forward="true" selection-start-line="48" selection-end-line="48" />
+          <folding>
+            <element signature="e#544#545#0" expanded="true" />
+            <element signature="e#595#596#0" expanded="true" />
+            <element signature="e#1670#1679#0" expanded="true" />
+          </folding>
+>>>>>>> 103bfc9c8c9e5853c54117b2f3e352d3196e0743
         </state>
       </provider>
     </entry>
@@ -602,6 +934,7 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/com/algos/stack/BalanceBrackets.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="286">
@@ -609,6 +942,8 @@
         </state>
       </provider>
     </entry>
+=======
+>>>>>>> 103bfc9c8c9e5853c54117b2f3e352d3196e0743
     <entry file="file://$PROJECT_DIR$/src/com/algos/dynamik/CoinChange.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="290">
@@ -776,10 +1111,17 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/com/algos/streamz/Streamz.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="20" column="21" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="21" />
+=======
+    <entry file="file://$PROJECT_DIR$/src/com/algos/leetcode/easy/SearchInsertPosition.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="26" column="55" selection-start-line="26" selection-start-column="55" selection-end-line="26" selection-end-column="55" />
+>>>>>>> 103bfc9c8c9e5853c54117b2f3e352d3196e0743
         </state>
       </provider>
     </entry>
@@ -803,6 +1145,7 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/com/algos/dailycoding/MissingPosInt.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="508">
@@ -814,12 +1157,40 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="15" column="22" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
+=======
+    <entry file="file://$PROJECT_DIR$/src/com/algos/hackerrank/medium/CycleDetection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="43" lean-forward="true" selection-start-line="22" selection-start-column="43" selection-end-line="22" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/algos/general/Permutations.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/algos/linkedlistz/SortedInsert.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="83" selection-start-line="4" selection-start-column="83" selection-end-line="4" selection-end-column="83" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/algos/leetcode/medium/NextPermutation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="316">
+          <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
+>>>>>>> 103bfc9c8c9e5853c54117b2f3e352d3196e0743
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/com/algos/bst/BinaryTree.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="508">
@@ -834,6 +1205,43 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+=======
+    <entry file="file://$PROJECT_DIR$/src/com/algos/Graphz/Dijkstra.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="601">
+          <caret line="84" column="43" lean-forward="true" selection-start-line="84" selection-start-column="43" selection-end-line="84" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/algos/search/QuickSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="305">
+          <caret line="25" column="47" selection-start-line="25" selection-start-column="47" selection-end-line="25" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/algos/stack/BalanceBrackets.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="790">
+          <caret line="58" column="30" lean-forward="true" selection-start-line="58" selection-start-column="30" selection-end-line="58" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/algos/Graphz/DPQ.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="740">
+          <caret line="90" column="39" lean-forward="true" selection-start-line="90" selection-start-column="39" selection-end-line="90" selection-end-column="39" />
+          <folding>
+            <element signature="e#2164#2177#0" expanded="true" />
+            <element signature="e#2306#2312#0" expanded="true" />
+          </folding>
+>>>>>>> 103bfc9c8c9e5853c54117b2f3e352d3196e0743
         </state>
       </provider>
     </entry>

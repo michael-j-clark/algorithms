@@ -233,11 +233,16 @@ public class BinaryTree {
 
         //3) Crawl stack until non-empty
         while (s.isEmpty() == false) {
+
+            //System.out.println(Arrays.deepToString(s.toArray()));
             //4)Pop top
             Node x = s.pop();
 
+            System.out.println(" " + x.element);
+
             //5) If we find the target, return true
             if(x.element.compareTo(c) == 0){
+                //System.out.println(Arrays.toString(s.toArray()));
                 return Boolean.TRUE;
             }
 
@@ -394,9 +399,9 @@ public class BinaryTree {
 
 
         //System.out.println("Depth-First-Search : ");
-        //bst.DFS(root);
+        bst.DFS(root, 7);
 
-        System.out.println(bst.height(root2));
+        //System.out.println(bst.height(root2));
         //bst.inorder();
         //bst2.inorder();
 
